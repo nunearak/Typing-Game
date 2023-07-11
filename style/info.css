@@ -1,0 +1,14 @@
+.about {
+    text-align: center;
+    color: #594168;
+    font-size: 50px;
+    font-weight: 5000;
+    letter-spacing: 0.2px;
+    line-height: 60px;
+    font-family: Delicious Handrawn;
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 600px;
+    margin-inline-end: 600px;
+}
